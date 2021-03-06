@@ -1,3 +1,2 @@
 # rezshop
 shop
-folder
